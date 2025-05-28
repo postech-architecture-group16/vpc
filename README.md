@@ -11,4 +11,4 @@
 
 ### Github Actions - Runs
 
-![Sonar_1](./assets/vpc_runs.png)
+![VPC](./assets/vpc_runs.png)
